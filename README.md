@@ -1,5 +1,5 @@
 # Maven_UK_Railway_Challenge
-INSIGITS 
+<h4> INSIGHTS </h4>
 Bookings: A total of 31,653 tickets were booked, with March recording the highest volume (8,117). The busiest single day was March 9th (313 bookings), while April 1st saw the least (63 bookings). Interestingly, two-thirds of bookings were made without a railcard, with Adult railcards being the most popular choice (15%) among those who used them. <br>
 Revenue: Despite Advance tickets having higher sales than Off-Peak and Anytime tickets combined, net profit from Advance tickets was only £85,000 higher. This suggests a lower profit margin on Advance tickets. Standard class tickets accounted for nine-tenths of all bookings and incurred 84% of the revenue lost through refunds, likely due to stricter refund policies compared to offline purchases (which had a higher refund rate).<br>
 Payment Methods: Credit cards were the dominant payment methods, contributing to two-thirds of net revenue. Debit cards accounted for only 4%.<br>
